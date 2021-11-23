@@ -10,7 +10,6 @@ C:\Users\USER\Desktop\C#\Methoda\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\USER\Desktop\C#\Methoda\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\USER\Desktop\C#\Methoda\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\USER\Desktop\C#\Methoda\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\USER\Desktop\C#\Methoda\obj\Debug\net6.0\Methoda.csproj.AssemblyReference.cache
 C:\Users\USER\Desktop\C#\Methoda\obj\Debug\net6.0\Methoda.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\USER\Desktop\C#\Methoda\obj\Debug\net6.0\Methoda.AssemblyInfoInputs.cache
 C:\Users\USER\Desktop\C#\Methoda\obj\Debug\net6.0\Methoda.AssemblyInfo.cs
@@ -25,3 +24,9 @@ C:\Users\USER\Desktop\C#\Methoda\obj\Debug\net6.0\Methoda.dll
 C:\Users\USER\Desktop\C#\Methoda\obj\Debug\net6.0\ref\Methoda.dll
 C:\Users\USER\Desktop\C#\Methoda\obj\Debug\net6.0\Methoda.pdb
 C:\Users\USER\Desktop\C#\Methoda\obj\Debug\net6.0\Methoda.genruntimeconfig.cache
+C:\Users\USER\Desktop\C#\Methoda\obj\Debug\net6.0\Methoda.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C#\Methoda\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\USER\Desktop\C#\Methoda\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\USER\Desktop\C#\Methoda\bin\Debug\net6.0\System.Web.Http.WebHost.dll
+C:\Users\USER\Desktop\C#\Methoda\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\C#\Methoda\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

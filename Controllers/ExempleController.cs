@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Methoda.Models;
+using Microsoft.AspNetCore.Mvc;
+using System.Net.Http;
+
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -10,13 +13,15 @@ namespace Methoda.Controllers
     {
         // GET: api/<ExempleController>
         [HttpGet]
-        public IEnumerable<string> Get()
+        public IActionResult Get()
         {
-            return new string[] { "tzivi", "value2" };
+            //return new string[] { "tzivi", "value2" };
+            return Ok(new string ("tzivi" ));
         }
 
         // GET api/<ExempleController>/5
         [HttpGet("{id}")]
+        //[Route("aa/{Id}")]
         public string Get(int id)
         {
             return "value";
